@@ -7,7 +7,7 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 media/
-migrations/__init__.py  # Optional: ignore migrations if not necessary
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
